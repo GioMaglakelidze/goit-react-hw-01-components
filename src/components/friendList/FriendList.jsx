@@ -42,4 +42,4 @@ FriendList.propTypes = {
   ).isRequired,
 };
 
-
+// Діма Берестень

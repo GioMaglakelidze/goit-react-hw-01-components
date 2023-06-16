@@ -21,4 +21,4 @@ FriendListItem.propTypes = {
   isOnline: PropTypes.bool.isRequired,
 };
 
-
+// Діма Берестень

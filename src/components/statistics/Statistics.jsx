@@ -53,8 +53,3 @@ Statistics.propTypes = {
   ).isRequired,
 };
 
-<<<<<<< Updated upstream
-// Діма Берестень
-=======
-
->>>>>>> Stashed changes

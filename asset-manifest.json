@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GioMaglakelidze/goit-react-hw-01-components/static/css/main.25a6f500.css",
+    "main.js": "/GioMaglakelidze/goit-react-hw-01-components/static/js/main.8c804f1b.js",
+    "index.html": "/GioMaglakelidze/goit-react-hw-01-components/index.html",
+    "main.25a6f500.css.map": "/GioMaglakelidze/goit-react-hw-01-components/static/css/main.25a6f500.css.map",
+    "main.8c804f1b.js.map": "/GioMaglakelidze/goit-react-hw-01-components/static/js/main.8c804f1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a6f500.css",
+    "static/js/main.8c804f1b.js"
+  ]
+}

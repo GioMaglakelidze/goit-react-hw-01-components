@@ -42,4 +42,7 @@ FriendList.propTypes = {
   ).isRequired,
 };
 
+<<<<<<< Updated upstream
 // Діма Берестень
+=======
+>>>>>>> Stashed changes

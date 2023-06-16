@@ -21,4 +21,7 @@ FriendListItem.propTypes = {
   isOnline: PropTypes.bool.isRequired,
 };
 
+<<<<<<< Updated upstream
 // Діма Берестень
+=======
+>>>>>>> Stashed changes

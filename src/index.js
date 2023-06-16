@@ -11,4 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>
 );
 
+<<<<<<< Updated upstream
 // Діма Берестень
+=======
+>>>>>>> Stashed changes
